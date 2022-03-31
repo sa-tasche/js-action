@@ -10,15 +10,17 @@ This page details all runtime dependencies of `javascript-action`.
 
 | License     | Count |
 | ----------- | ----- |
-| [MIT](#mit) | 1     |
+| [MIT](#mit) | 3     |
 
 #### MIT
 
 MIT License - [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
-| Name            | Version | Publisher | Repository                                                               |
-| --------------- | ------- | --------- | ------------------------------------------------------------------------ |
-| `@actions/core` | `1.2.6` |           | [https://github.com/actions/toolkit](https://github.com/actions/toolkit) |
+| Name                   | Version  | Publisher        | Repository                                                                       |
+| ---------------------- | -------- | ---------------- | -------------------------------------------------------------------------------- |
+| `@actions/core`        | `1.6.0`  |                  | [https://github.com/actions/toolkit](https://github.com/actions/toolkit)         |
+| `@actions/http-client` | `1.0.11` | GitHub, Inc.     | [https://github.com/actions/http-client](https://github.com/actions/http-client) |
+| `tunnel`               | `0.0.6`  | Koichi Kobayashi | [https://github.com/koichik/node-tunnel](https://github.com/koichik/node-tunnel) |
 
 ## Contact
 
